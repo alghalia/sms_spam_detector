@@ -1,4 +1,5 @@
-This repository contains a Python-based SMS Spam Classifier application. The project utilizes machine learning to classify SMS messages as either "Spam" or "Not Spam." The app is built using the `scikit-learn` library for model training and `Gradio` for the user interface.
+# SMS Spam Classifier
+This repository contains a Python-based SMS Spam Classifier application. The project utilizes machine learning to classify SMS messages as either "Spam" or "Not Spam." The app is built using the `scikit-learn` library for model training and `Gradio` for the user interface. we are enabling users to test text messages. Based on the model's performance, the application will provide feedback to users, indicating whether the text is classified as spam or not.
 
 ---
 
